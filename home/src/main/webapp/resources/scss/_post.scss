@@ -1,0 +1,191 @@
+.blog{
+    .bz9tbe_pagination{
+        margin-top: 20px;
+        clear: both;
+        width: 100%;
+    }
+}
+blockquote{
+    padding-left: 0;
+    border-left: none;
+    padding: 0;
+    font-family: 'Montserrat',sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: italic;
+    letter-spacing: -1px;
+    line-height: 1.2em;
+    color: #333;
+    background: transparent;
+    p{
+        font-style: italic;
+    }
+}
+.bz9tbe-content{
+    padding-bottom: 90px;
+}
+.latest-post{
+    .box{
+        .box-img{
+            margin-bottom: 0;
+            overflow: hidden;
+            position:relative;
+            img{
+                display: block;
+                height: auto;
+                border-radius: 2px;
+            }
+        }
+        .box-content{
+            .title{
+                a{
+                    color: #00366f;
+                    font-size: 42px;
+                    font-family: 'Miriam Libre', sans-serif;
+                    font-weight: 700;
+                    line-height: 50px;
+                }
+            }
+            .box-content-p{
+                p{
+                    font-size: 16px;
+                    color: #606c75;
+                    @include font-regular();
+                    font-family: 'Montserrat', sans-serif;
+                    margin-bottom: 20px;
+                    line-height: 28px;
+                }
+                blockquote{
+                    position: relative;
+                    padding-left:70px;
+                    font-size:24px;
+                }
+            }
+            .read-more{
+                display: inline-block;
+                color: #ed3024;
+                font-size: 16px;
+                font-weight: 700;
+                font-family: 'Montserrat', sans-serif;
+                text-decoration: underline;
+            }
+        }
+    }
+}
+
+/*--Post List--*/
+.blog-v1{
+    .box{
+        margin-bottom: 50px;
+        background: transparent;
+        transition: all .5s ease;
+        .box-img{
+            margin-bottom: 0;
+        }
+    }
+    &.blog-grid-2{
+        .box{
+            .box-img{
+                img{
+                    width: 100%;
+                }
+            }
+        }
+        &.latest-post{
+            .box-content{
+                .box-content-title{
+                    h3{
+                        font-family: 'Montserrat',sans-serif;
+                        font-size: 18px;
+                        font-weight: normal;
+                        margin: 0;
+                        padding: 0;
+                        text-transform: none;
+                        line-height: 1.4em !important;
+                        color: #333;
+                        letter-spacing: normal;
+                        &:hover{
+                            color: #aaa;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+/*--Post Detail--*/
+.blog-detail{
+    .latest-post .box .box-content .box-content-p p{
+        margin-bottom: 0;
+    }
+    .blog-content{
+        .box-content{
+            .box-title{
+                h3{
+                    color: #00366f;
+                    font-size: 42px;
+                    font-family: 'Miriam Libre', sans-serif;
+                    font-weight: 700;
+                    line-height: 50px;
+                    margin-top: 25px;
+                    margin-bottom: 25px;
+                }
+            }
+            .box-content-p{
+                .title-single{
+                    color: #00366f;
+                    font-size: 25px;
+                    font-family: 'Miriam Libre', sans-serif;
+                    font-weight: 700;
+                    line-height: 34px;
+                }
+                blockquote{
+                    padding: 30px;
+                    background: #f2f2f2;
+                    padding-right: 20px;
+                    border-left: 5px solid #00366f;
+                    p{
+                        color: #00366f;
+                        font-size: 24px;
+                        font-family: 'Miriam Libre', sans-serif;
+                        font-weight: 500;
+                        line-height: 34px;
+                        font-style: normal;
+                        margin-bottom: 0;
+                    }
+                }
+            }
+        }
+    }
+}
+.bz9tbe-widget-latest-post{
+    ol{
+        li{
+            &:first-child{
+                margin-top: 0;
+            }
+            padding-top: 20px;
+            border-top: 1px solid #ccc;
+            margin-top: 20px;
+        }
+    }
+    .box-title{
+        h5{
+            color: #00366f;
+            font-size: 18px;
+            font-family: 'Miriam Libre', sans-serif;
+            font-weight: 700;
+            line-height: 28px;
+            margin-bottom: 8px;
+        }
+    }
+    .box-content{
+        color: #606c75;
+        font-size: 14px;
+        font-family: 'Miriam Libre', sans-serif;
+        font-style: normal;
+        margin-bottom: 0;
+    }
+}

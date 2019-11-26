@@ -1,0 +1,2744 @@
+@media (max-width: 1290px){
+    .header-v1 .header .main-menu .menu-primary{
+        padding-left: 10px;
+    }
+    .header-v1 .header .menu-login-flex .phone-call{
+        display: none;
+    }
+    .header-v1 .header .menu-login-flex{
+        padding-top: 40px;
+    }
+}
+@media(max-width:1219px){
+    .header-v1 .header .main-menu .menu-primary > li{
+        padding: 0 8px;
+    }
+    .nav-tabs>li{
+        width: 16.66%;
+    }
+}
+@media(max-width:1199px){
+    .contact-faq .content-faq .nav-tabs > li > a{
+        min-width: auto;
+    }
+    .compensation-regulations .content-compensation-regulations .tab-content ul li .box-left{
+        padding: 0 20px;
+    }
+    .compensation-regulations .content-compensation-regulations .tab-content ul li .box-right p,.compensation-regulations .content-compensation-regulations .tab-content .box-text p{
+        br{
+            display: block;
+        }
+    }
+    .list-compensation ul li .box-float .box:nth-child(4){
+        width: 156px;
+    }
+    .header-v1 .header .main-menu .primary-menu li{
+        margin-right: 20px;
+    }
+    .header-v1 .header .box-contact a img{
+        bottom: -4px;
+    }
+    .header-v1 .header .box-contact a{
+        font-size: 18px;
+    }
+    .header-v1 .header .box-contact a:first-child{
+        margin-right: 25px;
+    }
+    .header-v1 .header .sub-menu ul li a{
+        padding: 0 30px;
+    }
+    .header-v1 .header .box-contact{
+        margin-left: 35px;
+    }
+    .section-blog .content-news ul li{
+        display: block;
+    }
+    .section-blog .content-news ul li .box-img img{
+        width: 100%;
+    }
+    .section-blog .content-news ul li .box-content{
+        padding: 30px;
+    }
+    .list-tab ul li{
+        min-width: auto;
+        a{
+            padding: 0 25px;
+        }
+    }
+    .gallery-change #gallery #panel{
+        max-width: 100%;
+        width: 57%;
+        img{
+            width: 100%;
+        }
+    }
+    .gallery-change #gallery #thumbs{
+        img{
+            width: 32%;
+            float: left;
+            margin-left: 5px;
+            margin-bottom: 5px;
+        }
+    }
+    #msform fieldset.formstep8 .box-image .box-text p{
+        max-width: 700px;
+        margin: 0 auto;
+    }
+}
+@media (max-width:1050px){
+    .header-v1 .header .main-menu .menu-primary{
+        padding-left: 0;
+    }
+
+}
+@media (max-width: 991px){
+    .compensation-page .content-compensation ul li .box-icon:after{
+        display: none;
+    }
+    .contact-faq .title-bar{
+        padding: 60px 0;
+        padding-bottom: 60px;
+    }
+    .contact-faq .title-bar h2 {
+        font-size: 55px;
+        color: #fff;
+        font-family: 'Prata', serif;
+        margin: 22px 0 33px 0;
+        line-height: 70px;
+    }
+    .contact-faq .title-bar p{
+        display: none;
+    }
+    .compensation-page .content-compensation ul li{
+        float: none;
+        width: 100%;
+    }
+    .compensation-page .content-compensation ul{
+        width: 100%;
+        margin: 0;
+        padding-bottom: 0;
+        padding-right: 50%;
+    }
+    .contact-page{
+        padding: 163px 0;
+        text-align: center;
+        padding-bottom: 220px;
+    }
+    .compensation-page .content-compensation ul li .box-icon:before {
+        content: "\f105";
+    }
+    .compensation-page .content-compensation ul li .box-icon{
+        font-weight: 700;
+    }
+    .compensation-page .content-compensation ul li .box{
+        right: inherit;
+        top: inherit;
+        z-index: 1;
+        bottom: -35px;
+        left: 0;
+    }
+    .compensation-page .content-compensation ul li .box-icon{
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        width: auto;
+        bottom: 50%;
+        z-index: 1;
+        font-size: 62px;
+        color: #e5e5e5;
+        right: -20%;
+    }
+    .compensation-page .content-compensation .content{
+        position: relative;
+    }
+    .compensation-page .content-compensation .box-compensation{
+        max-width: 100%;
+        margin: 0;
+        padding-bottom: 0;
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        width: 34%;
+    }
+    .compensation-page .content-compensation .box-compensation .box {
+        width: 100%;
+        background: #c8ae51;
+        float: none;
+        text-align: center;
+        padding: 410px 0;
+        position: relative;
+    }
+    .compensation-regulations .content-compensation-regulations .tab-content ul li .box-left{
+        width: 22%;
+    }
+    .list-compensation ul li .box-float .box:first-child {
+        width: 125px;
+    }
+    .list-compensation ul li .box-float .box:nth-child(2){
+        width: 302px;
+    }
+    .list-compensation ul li .box-float .box:nth-child(3){
+        width: 143px;
+    }
+    .list-compensation ul li .box-float .box:nth-child(4){
+        width: 148px;
+    }
+    .list-compensation ul li .box-float .box:nth-child(2) .time {
+        font-size: 20px;
+        color: #000;
+        font-family: 'noto-sans-scott-demilight',sans-serif;
+        line-height: 41px;
+    }
+    .list-compensation ul li .box-float .box:nth-child(2) img {
+        max-width: 38px;
+    }
+    .list-compensation ul li .box-float .box:nth-child(3) a {
+        line-height: 30px;
+        padding: 0 26px;
+        font-size: 14px;
+    }
+    .list-compensation ul li .box-float .box:nth-child(4) p{
+        font-size: 14px;
+    }
+    .menu-primary{
+        display: none !important;
+    }
+    .hidden-mobile{
+        display: none;
+    }
+    .header-v1 .header .main-menu .primary-menu{
+        display: none;
+    }
+    .header-v1 .header .sub-menu{
+        display: none;
+    }
+    .menu-mobi{
+        display: none;
+    }
+    .header-v1 .header .box{
+        float: left;
+        width: 90%;
+        line-height: 70px;
+        padding-top: 8px;
+    }
+    .header-v1 .header .logo{
+        height: 70px;
+        line-height: 70px;
+        img{
+            max-height: 70px;
+        }
+    }
+    .header-v1 .header .box-contact,.header-v1 .header .main-menu .icon-link{
+        display: none;
+    }
+    .header-v1 .header .main-menu{
+        float: none;
+        display: flex;
+        align-items: center;
+        height: 70px;
+        position: relative;
+    }
+    .header-v1 .header .box-lg{
+        float: right;
+        height: 70px;
+        padding-top: 0;
+    }
+    .menu-mobi{
+        position: absolute;
+        top: 110px;
+        z-index: 1;
+        width: 100%;
+        ul{
+            margin: 0;
+            list-style: none;
+            li{
+                background-color: #082340;
+                border-bottom: 1px solid #264059;
+                &.active{
+                    background-color: #0077b8;
+                    a{
+                        color: #fff;
+                    }
+                }
+                a{
+                    color: #fff;
+                    font-family: 'noto-sans-scott';
+                    font-size: 14px;
+                    font-weight: 700;
+                    line-height: 49px;
+                    max-width: 720px;
+                    margin: 0 auto;
+                    display: block;
+                }
+            }
+        }
+    }
+    .header-v1 .header .menu-bars-mobi{
+        top: 25px;
+    }
+    .sidebar{
+        margin-top: 25px;
+    }
+    .bij-etceterra .etceterra{
+        text-align: center;
+    }
+    .col-sm-6{
+        margin-bottom: 30px;
+        &:last-child{
+            margin-bottom: 0;
+        }
+    }
+    .grid-gallery .box{
+        margin-bottom: 0;
+    }
+    .display-fex{
+        text-align: center;
+        display: block;
+        img{
+            margin: 0 auto;
+        }
+    }
+    .list-tab ul{
+        text-align: center;
+        li{
+            margin-bottom: 5px;
+        }
+    }
+    .gallery-change #gallery #panel{
+        max-width: 100%;
+        width: 100%;
+        float: none;
+        margin-right: 0;
+    }
+    .gallery-change #gallery #thumbs img{
+        width: 24%;
+        float: none;
+        margin-bottom: 0;
+        margin-left: 0px;
+    }
+    #msform fieldset.formstep8 .box-image .box-text{
+        top: 64px;
+    }
+    #msform fieldset.formstep8 .box-image .box-text p{
+        max-width: 500px; 
+    }
+    #msform fieldset.formstep8 h4{
+        text-align: left;
+        display: block;
+    }
+    #msform fieldset.formstep8 h4 img {
+        margin-right: 13px;
+        float: left;
+        padding-bottom: 26px;
+        position: relative;
+        top: 4px;
+    }
+}
+@media(max-width:900px){
+    .footer .widget_nav_menu .menu li:first-child{
+        padding-left: 0;
+    }
+    .footer .widget_nav_menu .menu li:before{
+        left: 5px;
+    }
+}
+@media(max-width:900px) and (min-width:767px) {
+    .box-blog-list li .box-content .box-content-title h3{
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .box-blog-list li .box-content .box-content-p{
+        line-height: 24px;
+    }
+}
+@media(max-width:767px){
+    .compensation-regulations .content-compensation-regulations .tab-content ul li .box-right,.compensation-regulations .content-compensation-regulations .tab-content ul li .box-right.box-2 .box{
+        padding: 20px;
+    }
+    .list-compensation ul li .box-float .box:nth-child(4){
+        display: block;
+        .button{
+            display: inline-block;
+        }
+    }
+    .list-compensation ul li .box-float .box:nth-child(3){
+        display: none;
+    }
+    .footer .footer-top .widget_nav_menu {
+        padding-bottom: 15px;
+        padding-top: 10px;
+    }
+    .list-compensation ul li .box-float .box:first-child {
+        width: 20%;
+    }
+    .list-compensation ul li .box-float .box:nth-child(2) {
+        width: 50%;
+    }
+    .list-compensation ul li .box-float .box:nth-child(4){
+        width: 30%;
+    }
+    .list-compensation ul li .box-float .box:nth-child(4) .button{
+        margin-top: 24px;
+        margin-bottom: 10px;
+    }
+    .list-compensation ul li:nth-child(even) .box-float .box:nth-child(4) a {
+        background: #8d1812;
+    }
+    .list-compensation ul li .box-title a{
+        font-size: 0;
+        padding: 0 10px;
+        img{
+            margin: 0;
+        }
+    }
+    .list-compensation ul li .box-title h3{
+        line-height: 50px;
+        font-size: 14px;
+        text-align: left;
+        padding-left: 20px;
+        font-family: 'noto-sans-scott-medium',sans-serif;
+        letter-spacing: 0px;
+        float: left;
+        display: inline-block;
+        margin: 0;
+    }
+    .section-img-text{
+        .wpb_single_image{
+            width: 100%;
+            .vc_figure{
+                width: 100%;
+                .vc_single_image-wrapper{
+                    width: 100%;
+                    text-align: center;
+                }
+            }
+        }
+        .wpb_text_column{
+            .wpb_wrapper{
+                text-align: center;
+            }
+        }
+    }
+    .video-left .vc_column-inner{
+        padding-right: 15px !important;
+    }
+    .video-right .vc_column-inner{
+        padding-left: 15px !important;
+    }
+    .video-left .wpb_wrapper, .video-right .wpb_wrapper{
+        border-bottom: none;
+    }
+    .page-sidebar,.side-blog{
+        margin-top: 35px;
+        max-width: 320px;
+    }
+    .side-blog{
+        padding-left: 25px;
+    }
+    .footer .widget_nav_menu{
+        padding-bottom: 0;
+        padding-top: 20px;
+    }
+    .footer .bz9tbe-social-site{
+        padding-bottom: 20px;
+        padding-top: 15px;
+        text-align: left;
+    }
+    .bz9tbe-content{
+        padding-right: 0;
+    }
+    .latest-post .box-go-tos .item-go-tos.box-content.right img{
+        left: 0;
+        top: 65px;
+    }
+    .wpb_column.form-1{
+        margin-top: 30px;
+    }
+}
+@media(max-width:768px){
+    .our-blog-content .our-blog-1 .box .box-img img{
+        height: 280px;
+    }
+    .our-blog-content .our-blog-1 .box .box-img .box-content{
+        left: 20px;
+        padding-right: 5px;
+    }
+    .ss-blog-home.wpb_row {
+        margin-top: 0;
+    }
+}
+@media (max-width: 630px){
+    .contact-page{
+        background-size: cover;
+    }
+    .contact-page p {
+        margin-bottom: 40px;
+    }
+    .woocommerce-checkout .woocommerce .bz9tbe-box .form-row{
+        display: block;
+        label{
+            width: 100%;
+            margin-right: 0;
+        }
+    }
+    .woocommerce-checkout .woocommerce .bz9tbe-box .form-row input{
+        width: 100% !important;
+        height: 30px;
+    }
+    .woocommerce-checkout .woocommerce .bz9tbe-box .form-row textarea{
+        width: 100% !important;
+        height: 98px;
+    }
+    .woocommerce-checkout .woocommerce .bz9tbe-box .form-row .select2-container{
+        width: 100% !important;
+    }
+    .woocommerce-checkout .woocommerce .bz9tbe-box .form-row#billing_address_2_field{
+        padding-left: 0;
+    }
+    .compensation-page .content-compensation ul li .box-icon{
+        bottom: 39%;
+    }
+    .compensation-page .content-compensation .box-compensation .box{
+        padding: 215px 0;
+    }
+    .compensation-page .content-compensation ul li{
+        min-height: 170px;
+        text-align: center;
+        padding-top: 20px;
+        position: relative;
+    }
+    .compensation-page .content-compensation ul li h3{
+        color: #fdfdfd;
+        font-size: 18px;
+        font-family: 'noto-sans-scott-bold',sans-serif;
+        letter-spacing: 0.2px;
+        margin-bottom: 22px;
+    }
+    .compensation-page .content-compensation ul li:first-child img {
+        position: relative;
+        top: 0;
+        left: 0;
+    }
+    .compensation-page .content-compensation ul li:first-child p{
+        top:0;
+    }
+    .compensation-page .content-compensation ul li img{
+        max-width: 30px;
+    }
+    .compensation-page .content-compensation ul li p{
+        color: #fff;
+        font-size: 14px;
+        margin-bottom: 0;
+        margin-top: 16px;
+        padding: 0 10px;
+    }
+    .compensation-page .content-compensation ul li .box-icon{
+        bottom: 39%;
+    }
+}
+@media(max-width:550px){
+    .box-blog-list li .box-img{
+        float: none;
+        margin-right: 0;
+        width: 100%;
+        margin-bottom: 12px;
+        img{
+            width: 100%;
+        }
+    }
+    #search_go_tos form .dropdown.left{
+        float: none;
+        width: 100%;
+        margin-right: 0;
+    }
+    #search_go_tos form .dropdown.right{
+        float: none;
+        width: 100%;
+        margin-left: 0;
+        margin-top: 15px;
+    }
+    .mfp-auto-cursor .mfp-content{
+        padding: 15px;
+        padding-top: 60px;
+    }
+    .mfp-container #test-form .logo{
+        position: absolute;
+        top: 20px;
+        img{
+            width: 140px;
+        }
+    }
+    .silder-home li .box-content{
+        display: none;
+    }
+}
+@media (max-width: 480px){
+    .contact-page {
+        background: url(../images/bg-contact-mobi.png);
+        padding: 104px 0;
+        text-align: center;
+        padding-bottom: 100px;
+    }
+    .contact-page h2 {
+        font-size: 42px;
+        color: #fff;
+        font-family: 'Prata', serif;
+        margin-bottom: 25px;
+    }
+    .contact-page p {
+        font-size: 15px;
+        color: #fff;
+        font-family: 'noto-sans-scott-demilight',sans-serif;
+        line-height: 27px;
+        margin-bottom: 25px;
+    }
+    .contact-page ul li:first-child {
+        margin-bottom: 5px;
+    }
+    .contact-page ul li {
+        display: block;
+        color: #fff;
+        font-size: 16px;
+    }
+    .compensation-regulations .content-compensation-regulations .tab-content ul li .box-left{
+        width: 30%;
+    }
+    .compensation-regulations .content-compensation-regulations .nav-tabs > li > a{
+        line-height: 22px;
+        padding: 11px 0;
+    }
+    .compensation-regulations .content-compensation-regulations .nav-tabs li.active a{
+        line-height: 23px;
+    }
+    .list-compensation .title-bar {
+        padding: 42px 0;
+        padding-bottom: 45px;
+    }
+    .list-compensation .title-bar p{
+        margin: 0;
+        font-size: 13px;
+        color: #d60815;
+    }
+    .list-compensation .title-bar p img{
+        margin-right: 4px;
+        max-width: 21px;
+    }
+    .list-compensation .title-bar h2{
+        font-size: 27px;
+        color: #000;
+        margin: 14px 0 0px 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        letter-spacing: 1px;
+    }
+    .list-compensation .title-bar h2 img {
+        margin: 0 22px;
+    }
+    .list-compensation ul li .box-float .box:first-child h4 {
+        margin: 0;
+        font-size: 14px;
+    }
+    .list-compensation ul li .box-float .box:nth-child(2) .time {
+        font-size: 16px;
+        color: #000;
+        font-family: 'noto-sans-scott-demilight',sans-serif;
+        line-height: 30px;
+    }
+    .list-compensation ul li .box-float .box:nth-child(2) img {
+        margin: 0 12px;
+        max-width: 30px;
+    }
+    .section-blog .content-news ul li .box-img{
+        min-width: 100%;
+    }
+    .list-tab ul li{
+        width: 100%;
+    }
+    .blog-v1.blog-grid-2 .box .box-img img, .blog-grid-2.blog-v2 .box .box-img img {
+        height: 200px;
+    }
+    .ss-blog-home.wpb_row{
+        margin-top: 0;
+    }
+    .blog-detail .comments ul.comment-list li .comment .comment-content .meta .meta-reply{
+        float: none;
+    }
+    .blog-detail .comments ul.comment-list li .comment .comment-content .meta .meta-author{
+        float: none;
+    }
+    .blog-detail .box .tags-share ul li a span{
+        padding-right: 5px;
+    }
+    .blog-detail .comments ul.comment-list .comment + ul{
+        padding-left: 80px;
+    }
+    .blog-detail .comments ul.comment-list li .comment .comment-content p{
+        margin-top: 8px;
+    }
+    .blog-detail .comments ul.comment-list li .comment .comment-content{
+        margin-left: 80px;
+    }
+    .blog-detail .comments ul.comment-list li .comment .comment-img{
+        width: 60px;
+        height: 60px;
+    }
+    .blog-detail .box .tags-share .tags, .blog-detail .box .tags-share .share{
+        float: none;
+    }
+    .blog-v1.post-list .box .box-content{
+        padding: 0;
+    }
+    .heading-font-size{
+        h2{
+            font-size: 29px !important;
+        }
+    }
+    .heading-responsive{
+        .bz9tbe-sub-title{
+            p{
+                font-size: 14px !important;
+            }
+        }
+        h2{
+            font-size: 33px !important;
+            line-height: 36px !important; 
+            margin-bottom: 45px !important;
+        }
+        .uvc-sub-heading{
+            font-size: 14px !important;
+            line-height: 22px !important;
+            margin-bottom: 45px !important;
+        }
+    }
+    .heading-responsive-v2{
+        h2{
+            font-size: 33px !important;
+            line-height: 36px !important; 
+        }
+        .uvc-sub-heading{
+            font-size: 14px !important;
+            line-height: 26px !important;
+            margin-bottom: 30px !important;
+        }
+    }
+    .section-text-about{
+        .wpb_column{
+            &:last-child{
+                .heading-responsive-v2{
+                    .uvc-sub-heading{
+                        margin-bottom: 0 !important;
+                    }
+                }
+            }
+        }
+    }
+    .error404 .error-page .title-404, .page-template-404 .error-page .title-404{
+        font-size: 60px;
+        line-height: 60px;
+    }
+    .error404 .error-page p, .page-template-404 .error-page p{
+        font-size: 14px;
+        margin-bottom: 40px;
+    }
+    .events-detail .entry-title h1{
+        font-size: 30px;
+        line-height: 33px;
+        margin-bottom: 25px;
+    }
+    .new-slider-home .box .box-title h3{
+        font-size: 14px;
+        padding: 0 10px;
+        height: 40px;
+        line-height: 40px;
+    }
+    .new-slider-home .box .box-title h3:before{
+        position: absolute;
+        content: '';
+        width: 0px;
+        height: 0px;
+        border-left: 28px solid transparent;
+        border-right: 28px solid transparent;
+        border-bottom: 28px solid rgba(255, 255, 255, 0.8);
+        -webkit-transform: rotate(-45deg);
+        -ms-transform: rotate(-45deg);
+        transform: rotate(-45deg);
+        right: -38px;
+        top: -4px;
+        z-index: 9;
+    }
+    .heading-trending .bz9tbe-sub-title, .heading-trending .line_only{
+        display: none;
+    }
+    .heading-trending h2{
+        min-width: auto;
+    }
+    .ss-icon .icon-custom{
+        padding-bottom: 10px;
+    }
+    .tp-parallax-wrap .tp-loop-wrap span{
+        margin-right: 38px;
+    }
+    .home .content-blog .ss-map .map-absolute .wpb_column.container .vc_column-inner .wpb_wrapper .contact-home .form-padding .form-3 .phone,
+    .home .content-blog .ss-map .map-absolute .wpb_column.container .vc_column-inner .wpb_wrapper .contact-home .form-padding .form-3 .email{
+        float: none;
+        width: 100%;
+    }
+    .home .content-blog .ss-map .map-absolute .wpb_column.container .vc_column-inner .wpb_wrapper .contact-home .form-padding .form-3 textarea{
+        height: 70px;
+    }
+    .latest-post .box .box-content .box-content-meta ul li.cat, .our-blog.template1 .box .box-content .box-content-meta ul li.cat{
+        display: block;
+        padding-left: 0;
+    }
+    .form-1 .wpcf7-form .name, .form-1 .wpcf7-form .phone,.form-1 .wpcf7-form .email, .form-1 .wpcf7-form .address{
+        float: none;
+        width: 100%;
+    }
+    .home .content-blog .ss-map .map-absolute .wpb_column.container .vc_column-inner .wpb_wrapper .contact-home .form-padding .contact-home-text h2{
+        font-size: 20px;
+        line-height: 21px;
+    }
+}
+@media(max-width: 400px){
+    .header-v1 .header .box-lg{
+        display: none;
+    }
+}
+@media (max-width: 320px){
+    .toggle-icon a{
+        padding-right: 0 !important;
+    }
+    .bz9tbe-cart{
+        height: 50px;
+        line-height: 50px;
+        margin-right: 12px;
+        .ion-bag{
+            font-size: 18px;
+        }
+        .number{
+            right: -9px;
+            width: 15px;
+            height: 15px;
+            line-height: 15px;
+        }
+    }
+    .login-register a{
+        line-height: 50px;
+    }
+    .ss-home-map .title-hd .uvc-main-heading h2{
+        font-size: 35px;
+        line-height: 46px;
+    }
+    .ss-icon .icon-custom .vc_column-inner .wpb_wrapper .aio-icon-component .aio-icon-box .aio-icon-header .aio-icon-title{
+        font-size: 22px;
+        line-height: 22px;
+    }
+    .ss-icon .icon-custom .vc_column-inner .wpb_wrapper{
+        padding: 30px 5px 5px 20px;
+    }
+    .home .content-blog .ss-map .map-absolute .wpb_column.container .vc_column-inner .wpb_wrapper .contact-home .form-padding .contact-home-text h2{
+        font-size: 20px;
+    }
+}
+
+@media (min-width: 992px){
+    .menu-mobi, .mobile-logo{
+        display: none !important;
+    }
+}
+@media(max-width:991px){
+    .section-four .box-content .box-row {
+        float: left;
+        width: 50%;
+    }
+    .section-four .box-content .box-row:nth-child(3) .box{
+        background: #043056;
+    } 
+    .section-four .box-content .box-row:nth-child(4) .box {
+        background: #002341;
+    }
+    .list-compensation ul li .box-add ul li{
+        font-size: 14px;
+        display: block;
+    }
+    .list-compensation ul li .box-add ul li span{
+        margin-right: 5px;
+    }
+    .list-compensation ul li .box-add ul li i{
+        margin: 0 7px;
+    }
+    .list-compensation ul li .box-add ul li:before{
+        top: 6px;
+    }
+    .list-compensation ul li .box-add a{
+        background: #0a3f6c;
+        line-height: 35px;
+        border-radius: 30px;
+        padding: 0 30px;
+        float: right;
+        font-size: 12px;
+        color: #fff;
+        font-family: 'noto-sans-scott-bold',sans-serif;
+    }
+    #progressbar li{
+        font-size: 10px;
+    }
+    .logo-main{
+        display: none !important;
+    }
+    .logo-mobile{
+        display: block !important;
+    }
+    .section-responsive{
+        &.vc_row{
+            padding-top: 60px !important;
+            padding-bottom: 60px !important;
+        }
+    }
+    .section-responsive-v2{
+        &.vc_row{
+            padding-top: 60px !important;
+            padding-bottom: 30px !important;
+        }
+    }
+    .bz9tbe-testimonial-widget{
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .bz9tbe-ralated-course ul .course-grid-3{
+        width: 50%;
+        margin-bottom: 30px;
+        &:last-child{
+            margin-bottom: 0;
+        }
+    }
+    .section-four .box-content .box-row .box{
+        padding: 40px 15px;
+    }
+    #msform fieldset.formstep6 .box-content h4{
+        align-items: self-start;
+        text-align: left;
+        img{
+            position: relative;
+            top: 4px;
+        }
+    }
+    .get-compensation .box-img .box{
+        position: absolute;
+        top: 20px;
+        left: 20px;
+    }
+    .get-compensation .box-img .box h3{
+        font-size: 25px;
+        color: #000;
+        font-family: 'noto-sans-scott-demilight',sans-serif;
+        letter-spacing: 0px;
+        margin-bottom: 10px;
+    }
+    .get-compensation .box-img .box p{
+        font-size: 12px;
+        color: #000;
+        font-family: 'noto-sans-scott-demilight',sans-serif;
+        line-height: 25px;
+        margin-bottom: 19px;
+        padding-right: 20px;
+    }
+    .get-compensation .box-img .box a {
+        color: #fff;
+        font-size: 14px;
+        font-family: 'noto-sans-scott-bold',sans-serif;
+        background: #0a3f6c;
+        line-height: 35px;
+        display: inline-block;
+        border-radius: 30px;
+        padding: 0 25px;
+    }
+}
+@media(max-width:767px){
+    .menu-mobi ul li a{
+        max-width: 100%;
+        margin: 0 15px;
+    }
+    #msform fieldset.formstep3 .title-form h3{
+        font-size: 42px;
+    }
+    .section-multiStep{
+        padding: 60px 0;
+    }
+    .nav-tabs > li{
+        width: 33.33%;
+    }
+    .contact-faq .content-faq .nav-tabs > li:nth-child(3) > a{
+        border-right: 1px solid #ccc;
+    }
+    .contact-faq .content-faq .nav-tabs li.active a{
+        border-bottom: 1px solid #ccc;
+        line-height: 63px;
+    }
+    .section-four .box-content .box-row .box span {
+        max-width: 220px;
+        margin: 0 auto;
+    }
+}
+@media(max-width:720px){
+    #progressbar{
+        display: none;
+    }
+    #msform fieldset.formstep5 .box-content-1 .box-float .form-group:nth-child(10){
+        width: 97%; 
+    }
+    #msform fieldset.formstep5 .box-content-1 .box-float .form-group:nth-child(11){
+        margin-right: 0;
+    }
+    #msform fieldset.formstep5 .box-content-1 .box-float .form-group:nth-child(12){
+        width: 100%;
+        margin-top: 0;
+    }
+    #msform fieldset.formstep8 .box-float .box{
+        width: 100%;
+        margin: 0 !important;
+        margin-bottom: 30px !important;
+    }
+    #msform fieldset.formstep8 .box-float .box-content{
+        min-height: auto;
+    }
+    #msform fieldset.formstep8 .box-image .box-text p{
+        font-size: 14px;
+    }
+    #msform fieldset.formstep8 .box-image .box-text h3{
+        font-size: 28px;
+    }
+    #msform fieldset.formstep8 .box-image .box-text{
+        top:35px;
+    }
+}
+@media(max-width:700px){
+    .list-compensation ul li .box-add{
+        padding: 24px 20px 18px 20px;
+    }
+    .list-compensation ul li .box-add ul li{
+        padding-left: 24px;
+    }
+    #msform fieldset.formstep2 .box-top .box-float .form-group{
+        width: 100%;
+    }
+    #msform fieldset.formstep2 .box-top .box-float .form-group:nth-child(3){
+        width: 49%;
+        margin-left: 0;
+    }
+    #msform fieldset.formstep2 .box-top .box-float .form-group:last-child{
+        width: 49%;
+    }
+    #msform fieldset.formstep2 .box-bottom .box-float .box-1 .form-group{
+        width: 100%;
+        margin: 0 !important;
+    }
+    #msform fieldset.formstep2 .box-bottom .box-float .box-2 .form-group{
+        width: 100%;
+    }
+    #msform fieldset.formstep2 .box-bottom .box-float .box-2 .form-group:nth-child(2){
+        width: 49%;
+        margin-left: 0;
+    }
+    #msform fieldset.formstep2 .box-bottom .box-float .box-2 .form-group:last-child{
+        width: 49%;
+    }
+    #msform fieldset.formstep2 .box-bottom .box-float .box-input{
+        margin-bottom: 20px;
+    }
+    #msform fieldset.formstep2 .box-bottom .box-float .remove_field{
+        width: 30px;
+        height: 30px;
+        border: 2px solid #113265;
+        color: #113265;
+        border-radius: 50%;
+        display: inline-block;
+        text-align: center;
+        line-height: 28px;
+        font-weight: 700;
+        font-size: 18px;
+        position: absolute;
+        right: 0;
+        bottom: inherit;
+        top: -12px;
+    }
+    #msform fieldset.formstep6 .box-content .box-float .form-group:nth-child(3){
+        width: 97%;
+        margin-bottom: 0;
+    }
+    #msform fieldset.formstep6 .box-content .box-float .form-group:nth-child(4){
+        margin-right: 0px;
+    }
+    #msform fieldset.formstep6 .box-content .box-float .form-group:nth-child(5){
+        width: 100%;
+        margin-top: 0;
+    }
+    #msform fieldset.formstep6 .box-content .box-float .form-group:nth-child(6){
+        width: 100%;
+    }
+    .get-compensation .box-img img{
+        min-height: 300px;
+    }
+}
+@media(max-width:630px){
+    #msform fieldset.formstep3 .title-form h3{
+        font-size: 36px;
+        margin-bottom: 30px;
+    }
+    .list-compensation ul li .box-add ul li {
+        font-size: 12px;
+        display: block;
+        margin-bottom: 0px;
+    }
+    .list-compensation ul li .box-add a{
+        padding: 0 20px;
+    }
+    .compensation-page .content-compensation ul li:nth-child(5) p{
+        margin-top: 16px;
+    }
+    .compensation-page .content-compensation ul li .box img{
+        max-width: 57px;
+        bottom: 4px;
+    }
+    .compensation-page .content-compensation ul li .box{
+        background: #8d1812;
+        min-width: 72px;
+        position: absolute;
+        border-radius: 0;
+        padding: 0px 0px 4px 10px;
+        text-align: left;
+        font-size: 12px;
+        bottom: -28px;
+    }
+    .compensation-page .content-compensation .box-compensation h3{
+        font-size: 20px;
+    }
+}
+@media(max-width:600px){
+    #msform fieldset.formstep8 .box-image .box-text h3{
+        font-size: 23px;
+        margin-bottom: 15px;
+    }
+    #msform fieldset.formstep8 .box-image .box-text p{
+        font-size: 11px;
+        line-height: 21px;
+        max-width: 400px;
+    }
+    #msform fieldset.formstep8 h4{
+        margin-top: 0;
+    }
+    #msform fieldset.formstep5 .box-content-1 .box-float .form-group:nth-child(3){
+        width: 49%;
+    }
+    #msform fieldset.formstep5 .box-content-1 .box-float .form-group:nth-child(4) {
+        width: 49%;
+        margin-right: 0;
+    }
+    #msform fieldset.formstep5 .box-content-1 .box-float .form-group:nth-child(5){
+        width: 49%;
+        margin-left: 0;
+        label{
+            display: none;
+        }
+    }
+    #msform fieldset.formstep5 .box-content-1 .box-float .form-group:nth-child(6){
+        width: 49%;
+        label{
+            display: none;
+        }
+    }
+    #msform fieldset.formstep1 .box-top .box-float .form-group{
+        float: none !important;
+        width: 100% !important;
+        text-align: left;
+        margin: 0 !important;
+        padding: 0 19px !important;
+    }
+    #msform fieldset.formstep1 .box-top .box-float .form-group:first-child {
+        margin-bottom: 15px !important;
+    }
+    #msform fieldset.formstep1 .box-top .box-float .form-group:last-child:before{
+        left: 42px;
+    }
+    #msform fieldset.formstep5 .box-content-1 .box-float .form-group:nth-child(13){
+        width: 100%;
+        input{
+            width: 46%;
+        }
+    }
+    #msform fieldset.formstep5 .box-content-1 .box-float .form-group:nth-child(14){
+        display: none
+    }
+}
+@media(max-width:570px){
+    .list-compensation ul li .box-add ul {
+        width: 100%;
+        float: none;
+        text-align: left;
+    }
+    .list-compensation ul li .box-add{
+        display: block;
+        text-align: center;
+    }
+    .list-compensation ul li .box-add a{
+        float: none;
+        display: inline-block;
+        margin-top: 10px;
+    }
+    .contact-faq .content-faq .tab-content .box-faq .title h3{
+        font-size: 14px;
+    }
+    .contact-faq .content-faq .tab-content .box-faq .title h3{
+        font-size: 14px;
+    }
+    .contact-faq .content-faq .tab-content .box-faq .toggle{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .contact-faq .content-faq .tab-content .box-faq .toggle ul li{
+        line-height: 26px;
+        margin: 0;
+        font-size: 13px;
+    }
+}
+@media(max-width:540px){
+    #msform fieldset.formstep8 .box-image .box-text{
+        top: 25px;
+    }
+    .section-four .box-content .box-row{
+        width: 100%;
+    }
+    .section-four .box-content .box-row .box{
+        margin: 0;
+    }
+    #msform fieldset .title-form h3{
+        margin-top: 25px;
+    }
+    #msform fieldset.formstep2 .box-top .box-float .form-group:nth-child(3),#msform fieldset.formstep2 .box-top .box-float .form-group:last-child{
+        width: 100%;
+        margin-left: 0;
+    }
+    #msform fieldset.formstep2 .box-bottom .box-float .box-2 .form-group:nth-child(2),#msform fieldset.formstep2 .box-bottom .box-float .box-2 .form-group:last-child{
+        width: 100%;
+        margin-left: 0;
+    }
+    #msform fieldset.formstep3 .title-form h3{
+        font-size: 50px;
+    }
+    #msform fieldset.formstep6{
+        padding-top: 30px;
+    }
+    #msform fieldset.formstep7{
+        padding-top: 15px;
+    }
+    .get-compensation .title-bar h2{
+        display: none;
+        &.mobi{
+            display: block;
+        }
+    }
+    .section-four .box-content .box-row:nth-child(3) .box{
+        background: #002341;
+    } 
+    .section-four .box-content .box-row:nth-child(4) .box {
+        background: #043056;
+    }
+}
+br.mobi{
+    display: none;
+}
+#msform fieldset.formstep8 .box-image img.mobi{
+    display: none;
+}
+@media(max-width:500px){
+    .get-compensation .box-img img{
+        min-height: 333px;
+    }
+}
+.get-compensation .box-img img.mobi{
+    display: none;
+}
+@media(max-width:480px){
+    .section-one .box-title {
+        padding-bottom: 30px;
+    }
+    .contact-faq .title-bar span{
+        font-size: 18px;   
+    }
+    .contact-faq .content-faq .tab-content .box-faq .title {
+        display: flex;
+        align-items: center;
+        padding: 12px 0;
+    }
+    .contact-faq .content-faq .tab-content .box-faq .title h3 {
+        font-size: 14px;
+        padding-right: 60px;
+        line-height: 20px;
+    }
+    .contact-faq .content-faq .tab-content .box-faq .title span {
+        top: 0;
+        width: 36px;
+        height: 100%;
+        line-height: 100%;
+        cursor: pointer;
+        text-align: center;
+        font-size: 14px;
+    }
+    .contact-faq .content-faq .nav-tabs li.active a{
+        line-height: 45px;
+    }
+    .contact-faq .content-faq .nav-tabs > li > a{
+        font-size: 14px;
+        line-height: 45px;
+    }
+    .contact-faq .content-faq .tab-content .box-faq .title span:before {
+        position: absolute;
+        top: 36%;
+        left: 36%;
+    }
+    .contact-faq .title-bar h2 {
+        font-size: 36px;
+        color: #fff;
+        font-family: 'Prata', serif;
+        margin: 10px 0 0px 0;
+        line-height: 50px;
+    }
+    .get-compensation .box-img img{
+        display: none;
+        &.mobi{
+            display: block;
+        }
+    }
+    #msform fieldset.formstep8 .box-image .box-text p{
+        line-height: 18px;
+    }
+    #msform fieldset.formstep8 .box-image img{
+        display:none;
+        &.mobi{
+            display: block;
+        }
+    }
+    #msform fieldset.formstep6 .box-content label{
+        font-size: 14px;
+    }
+    #msform fieldset.formstep6 .box-content .box-float .form-group:nth-child(1){
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 0;
+    }
+    #msform fieldset.formstep6 .box-content .box-float .form-group:nth-child(2){
+        margin-left: 0;
+        width: 100%;
+        margin-bottom: 0;
+    }
+    #msform fieldset.formstep5 .box-content-1 .box-float .form-group:nth-child(1),#msform fieldset.formstep5 .box-content-1 .box-float .form-group:nth-child(2){
+        width: 100%;
+        margin: 0;
+    }
+    #msform fieldset.formstep5 .box-content-1 .box-float .form-group:nth-child(7),#msform fieldset.formstep5 .box-content-1 .box-float .form-group:nth-child(8){
+        width: 100%;
+        margin: 0;                                                                                                                                                       
+    }
+    #msform fieldset.formstep4 .box-content h4{
+        font-size: 14px;
+    }
+    #msform fieldset.formstep3 .box-radio .box label{
+        float: none;
+        width: 100%;
+    }
+    br.mobi{
+        display: block;
+    }
+    .banner-caption-title br.mobi,.banner-caption-p br.mobi{
+        display: block;
+    }
+    .rev_slider_wrapper .tp-caption.banner-caption-title{
+        font-size: 32px !important;
+        line-height:50px !important;
+        padding-left: 13px !important;
+        span{
+            margin: 0 !important;
+            font-size: 32px !important;
+            line-height: 50px !important;
+        }
+    }
+    .rev_slider_wrapper .tp-caption.banner-caption-p span{
+        font-size: 15px !important;
+        padding-left: 13px !important;
+        line-height: 26px !important;
+    }
+    .rev_slider_wrapper .tp-caption .al-button .button{
+        font-size: 18px !important;
+        margin-left: 13px !important;
+        line-height: 55px !important;
+        padding: 0 36px !important;
+    }
+    .get-compensation .box-img .box{
+        right: 20px;
+        text-align: center;
+    }
+    .get-compensation .box-img .box p{
+        padding-right: 0;
+    }
+    .get-compensation .title-bar{
+        padding: 0;
+        padding-bottom: 40px;
+    }
+    .get-compensation .title-bar h2{
+        font-size: 37px;
+        color: #000;
+        font-family: 'Prata', serif;
+        margin: 42px 0 12px 0; 
+    }
+    .get-compensation .title-bar p {
+        font-family: 'noto-sans-scott-demilight',sans-serif;
+        margin: 0;
+        font-size: 13.5px;
+        color: #888;
+    }
+    .get-compensation .box-img{
+        margin-bottom: 30px;
+    }
+    .get-compensation .box-form .box-float .form-group {
+        position: relative;
+        width: 100% !important;
+        margin: 0 !important;
+        padding: 0 20px !important;
+        margin-bottom: 18px !important;
+    }
+    .get-compensation .box-form .box-float .form-group label{
+        margin-bottom: 5px;
+    }
+    .get-compensation .box-form .box-float .form-group input{
+        padding-left: 38px;
+    }
+    .get-compensation .box-form .box-float .form-group:nth-child(odd):before {
+        top: 45px;
+        z-index: 1;
+        left: 34px;
+        font-size: 21px;
+        color: #cccccc;
+    }
+    .get-compensation .box-form .box-float .form-group:nth-child(even):before {
+        top: 45px;
+        z-index: 1;
+        left: 36px;
+        font-size: 21px;
+        color: #cccccc;
+    }
+    .get-compensation .box-form .box-float .form-group:last-child:before {
+        position: absolute;
+        content: '';
+        background: url(../images/icon/icon-calendar-mobi.png);
+        background-repeat: no-repeat;
+        width: 15px;
+        height: 15px;
+        right: 41px !important;
+        bottom: 11px;
+        z-index: 1;
+        left: auto;
+        top: 48px !important;
+        background-size: 18px;
+        width: 18px;
+        height: 18px;
+        right: 36px !important;
+        left: auto !important;
+        bottom: 10px;
+        z-index: 1;
+    }
+    .get-compensation .box-form .box-title{
+        margin-bottom: 15px;  
+    }
+    .list-compensation ul li .box-add ul li{
+        font-size: 10px;
+    }
+    .list-compensation ul li .box-add{
+        padding: 16px 10px;
+    }
+    .list-compensation ul li .box-add ul li span {
+        margin-right: 2px;
+    }
+    .list-compensation ul li .box-add ul li i {
+        margin: 0 4px;
+    }
+    .compensation-page .title-bar p{
+        display: none;
+    }
+    .header-v1 .top-header{
+        display: none;
+    }
+}
+@media(max-width:439px){
+    .get-compensation .box-img .box p{
+        line-height: 21px;
+    }
+    .compensation-page .content-compensation ul li .box {
+        background: #8d1812;
+        min-width: 50px;
+        position: absolute;
+        border-radius: 0;
+        padding: 0px 0px 4px 6px;
+        text-align: left;
+        font-size: 9px;
+        bottom: -18px;
+        line-height: 15px;
+    }
+    .compensation-page .content-compensation ul li .box img {
+        max-width: 44px;
+        bottom: 4px;
+        left: 3px;
+    }
+}
+@media(max-width:420px){
+    #msform fieldset.formstep4 .box-content h4 {
+        font-size: 12px;
+    }
+}
+@media(max-width:414px){
+    .rev_slider_wrapper .tp-caption.banner-caption-p span{
+        font-size: 15px !important;
+        padding-left: 13px !important;
+        line-height: 26px !important;
+    }  
+}
+@media(max-width:375px){
+    #msform fieldset.formstep7 .box-content .box-position .delete-icon {
+        position: absolute;
+        top: 9px;
+        right: 100px;
+    }
+    #msform fieldset.formstep3 .box-radio {
+        margin-bottom: 29px;
+        padding-bottom: 20px;
+    }
+    #msform fieldset.formstep3 .box-radio .box-title h3{
+        font-size: 13px !important;
+    }
+    .get-compensation .box-form .box-float .form-group:last-child:before {
+        top: 43px !important;
+    }
+    .get-compensation .box-form .box-float .form-group:nth-child(odd):before {
+        top: 38px;
+        z-index: 1;
+        left: 34px;
+        font-size: 21px;
+        color: #cccccc;
+    }
+    .get-compensation .box-form .box-float .form-group:nth-child(even):before {
+        top: 36px;
+        z-index: 1;
+        left: 36px;
+        font-size: 21px;
+        color: #cccccc;
+    }
+    .header-v1 .top-header .box .text{
+        color: #fff;
+        font-size: 12px;
+        line-height: 30px;
+        font-family: 'noto-sans-scott-light',sans-serif;
+    }
+    .header-v1 .header .logo img{
+        max-height: 34px;
+    }
+    .button-header{
+        display: block;
+        background: #00295b;
+        color: #fff;
+        padding: 0 4px;
+        line-height: 40px;
+        position: absolute;
+        right: 58px;
+        font-family: 'noto-sans-scott-bold',sans-serif;
+    }
+    .header-v1 .header .menu-bars-mobi {
+        top: 26px;
+        right: 10px;
+    }
+    .banner-caption-title br.mobi,.banner-caption-p br.mobi{
+        display: block;
+    }
+    .rev_slider_wrapper .tp-caption.banner-caption-title{
+        font-size: 32px !important;
+        line-height: 29px !important;
+        padding-left: 13px !important;
+        span{
+            margin: 0 !important;
+            font-size: 32px !important;
+            line-height: 50px !important;
+        }
+    }
+    .rev_slider_wrapper .tp-caption.banner-caption-p span{
+        font-size: 15px !important;
+        padding-left: 13px !important;
+        line-height: 26px !important;
+    }
+    .rev_slider_wrapper .tp-caption .al-button .button{
+        font-size: 18px !important;
+        margin-left: 13px !important;
+        line-height: 55px !important;
+        padding: 0 36px !important;
+    }
+    .section-one .box-title h2, .section-five .box-title h2{
+        font-size: 30px;
+    }
+    .section-one{
+        padding: 43px 0;
+        .box{
+            img{
+                max-width: 39px;
+                height: 40px;
+            }
+        }
+        .box-title p{
+            line-height: 20px;
+        }
+    }
+    .section-one .box-title{
+        padding-bottom: 25px;
+    }
+    .section-one .box .box-content{
+        margin-top: 10px;
+    }
+    .section-one .box-title h2{
+        margin-bottom: 10px;
+    }
+    .section-one .box .box-content h2{
+        font-size: 21px;
+        line-height: 28px;
+        max-width: 134px;
+        margin: 0 auto;
+        margin-bottom: 8px;
+        a{
+            font-family: 'noto-sans-scott-light',sans-serif;
+            font-size: 21px;
+            color: #333333;
+        }
+    }
+    .col-sm-6 {
+        margin-bottom: 30px;
+    }
+    .section-one .box .box-content p{
+        margin-bottom: 0;
+        color: #1b1b1b;
+        font-family: 'noto-sans-scott-light',sans-serif;
+        font-size: 14px;
+        line-height: 22px;
+    }
+    br.mobi{
+        display: block;
+    }
+    .section-two{
+        padding: 43px 0;
+        padding-bottom: 76px;
+        background-repeat: no-repeat;
+    }
+    .section-two .box-title h2{
+        font-size: 25px;
+        line-height: 33px; 
+    }
+    .section-two .box-title p {
+        font-size: 14px;
+        line-height: 28px;
+    }
+    .section-two .box-button .button{
+        padding: 0 44px;
+    }
+    .section-three .box-title h2{
+        color: #2f2f2f;
+        font-size: 23px;
+        font-family: 'noto-sans-scott-light',sans-serif;
+        margin-bottom: 35px;
+        letter-spacing: 0.2px;
+        line-height: 33px;
+    }
+    .section-three{
+        padding: 68px 0;
+        padding-bottom: 77px;
+    }
+    .section-three .box-title h2{
+        margin-bottom: 48px;
+    }
+    .section-three .box-title p{
+        font-size: 15px;
+        font-family: 'noto-sans-scott-light',sans-serif;
+        margin-bottom: 0;
+        line-height: 21px;  
+    }
+    .section-three .box-title{
+        padding-bottom: 58px;
+    }
+    .section-four{
+        padding: 92px 0;
+        padding-bottom: 152px;
+        background-position: center;
+    }
+    .section-four .box-title p{
+        font-size: 19px;
+        font-family: 'noto-sans-scott',sans-serif;
+        margin-bottom: 8px;
+        color: #bb9a66;
+        line-height: 33px;
+        text-transform: uppercase;
+        letter-spacing: 0;  
+    }
+    .section-four .box-title h2{
+        color: #fff;
+        font-size: 25px;
+        font-family: 'noto-sans-scott-thin',sans-serif;
+        margin-bottom: 0;
+        margin-top: 0;
+        line-height: 32px;
+    }
+    .section-four .box-title {
+        padding-bottom: 46px;
+    }
+    .section-four .box-content .box-row .box {
+        margin: 0;
+        margin: 0 24px;
+    }
+    .section-five{
+        padding: 68px 0;
+    }
+    .section-five .box-title h2{
+        color: #2f2f2f;
+        font-size: 45px;
+        font-family: 'noto-sans-scott-thin',sans-serif;
+        margin-bottom: 10px;
+        line-height: 38px;
+    }
+    .section-five{
+        .owl-carousel .owl-stage-outer{
+            overflow: hidden;
+        }
+    }
+    .section-five .owl-clients .item{
+        padding: 0;
+        padding-top: 32px;
+        margin: 0 15px;
+    }
+    .section-five .owl-clients .box-content{
+        box-shadow: 0px -1px 24px 0px rgba(0, 0, 0, 0.1);
+        background: #fff;
+        padding: 11px;
+        padding-top: 43px;
+        position: relative;
+    }
+    .section-five .owl-clients .box-img{
+        top: -32px;
+        width: 64px;
+    }
+    .section-five .owl-clients .box-content h2{
+        color: #464646;
+        font-size: 16px;
+        font-family: 'noto-sans-scott-medium',sans-serif;
+        margin: 0;
+        line-height: 18px;
+        margin-bottom: 0px;
+    }
+    .section-five .owl-clients .box-content span{
+        font-size: 12px;
+        color: #999999;
+        margin-bottom: 8px;
+        display: inline-block;
+    }
+    .section-five .owl-clients .box-content p{
+        font-size: 16px;
+        color: #1b1b1b;
+        margin-bottom: 4px;
+        line-height: 22px;
+    }
+    .section-five .owl-clients .box-content ul li{
+        display: inline-block;
+        color: #ea463a;
+        font-size: 12px;
+    }
+    .section-five .box-title h2{
+        font-size: 30px;
+    }
+    .section-five .box-title{
+        padding-bottom: 9px;
+    }
+    .section-five .owl-clients .owl-dots{
+        padding-top: 20px;
+        .owl-dot{
+            width: 10px;
+            height: 10px;
+        }
+    }
+    footer .top-footer{
+        text-align: center;
+        background: #004785;
+        padding: 13px 0;
+    }
+    footer .top-footer img{
+        margin-bottom: 3px;
+        max-height: 31px;  
+    }
+    footer .top-footer p{
+        color: #fff;
+        font-size: 12px;
+        font-family: 'noto-sans-scott',sans-serif;
+        margin-bottom: 0;
+        line-height: 17px;
+    }
+    footer .top-footer p span{
+        margin-right: 8px;
+    }
+    .bz9tbe-scroll-top.show-icon-top{
+        display: none;
+    }
+    .menu-mobi{
+        top: 100px;
+    }
+    #progressbar{
+        display: none;
+    }
+    .section-multiStep{
+        padding: 30px 0;
+        padding-bottom: 49px;
+    }
+    #msform fieldset .title-form h3,#msform fieldset.formstep3 .title-form h3{
+        font-size: 38px;
+        margin-bottom: 15px;
+    }
+    #msform fieldset .title-form p{
+        font-size: 14px;
+    }
+    #msform{
+        padding-top: 130px;
+    }
+    #msform fieldset.formstep1 .box-top .box-title h3{
+        line-height: 33px;
+        font-size: 14px;
+        text-align: left;
+        padding-left: 22px;
+        font-family: 'noto-sans-scott-medium',sans-serif;
+        letter-spacing: 0px;
+    }
+    #msform fieldset.formstep1 .box-top .box-title{
+        margin-bottom: 10px;
+    }
+    #msform fieldset.formstep1 .box-top .box-float .form-group:first-child{
+        margin-bottom: 14px !important;
+    }
+    #msform fieldset.formstep1 .box-top .box-float .form-group label{
+        margin-bottom: 7px;
+    }
+    #msform fieldset.formstep1 .box-top .box-float .form-group input{
+        height: 40px;
+        line-height: 40px;
+        padding-left: 38px;
+        font-size: 14px;
+    }
+    #msform fieldset.formstep1 .box-top .box-float .form-group:last-child:before,#msform fieldset.formstep1 .box-top .box-float .form-group:first-child:before{
+        left: 35px;
+        font-size: 21px;
+    }
+    #msform fieldset.formstep1 .box-top{
+        margin-bottom: 26px;
+    }
+    #msform fieldset.formstep1 .box-bottom .box-title h3{
+        line-height: 33px;
+        font-size: 14px;
+        text-align: left;
+        padding-left: 22px;
+        font-family: 'noto-sans-scott-medium',sans-serif;
+        letter-spacing: 0px;
+    }
+    #msform fieldset.formstep1 .box-bottom .box-title{
+        margin-bottom: 15px;
+    }
+    #msform fieldset.formstep1 .box-bottom .box-float h4{
+        font-size: 12px;
+        margin-bottom: 7px;
+    }
+    #msform fieldset.formstep1 .box-bottom .box-float input{
+        height: 40px;
+        line-height: 40px;
+        font-size: 14px;
+    }
+    #msform fieldset.formstep1 .box-bottom .box-float .box-input.input-remove .remove_field{
+        top:5px;
+    }
+    #msform fieldset.formstep1 .box-bottom .box-float .add_field_button{
+        color: #004785;
+        font-size: 12px;
+        padding: 0;
+        line-height: 29px;
+        background: transparent;
+        border-radius: 0;
+        border: 1px solid #004785;
+        padding: 0 16px 0 13px;
+        position: relative;
+    }
+    #msform fieldset .box-submit{
+        margin-top: 24px;
+    }
+    #msform fieldset .box-submit input{
+        margin: 0;
+        line-height: 19px;
+        height: auto;
+        width: 90px;
+        background: #004785;
+        border: 1px solid #004785;
+        border-radius: 0;
+        font-size: 13px; 
+    }
+    .box-title h3{
+        line-height: 33px !important;
+        font-size: 14px !important;
+        text-align: left !important;
+        padding-left: 22px !important;
+        font-family: 'noto-sans-scott-medium',sans-serif;
+        letter-spacing: 0px;
+    }
+    .form-group input{
+        height: 40px !important;
+        line-height: 40px !important;
+        font-size: 14px !important;
+    }
+    #msform fieldset.formstep2 .box-top .box-title{
+        margin-bottom: 18px;
+    }
+    #msform fieldset.formstep2 .box-top .box-float .form-group:first-child h4{
+        font-size: 21px;
+        img{
+            margin: 0 6px;
+        }
+    }
+    #msform fieldset.formstep2 .box-top .box-float .form-group:first-child{
+        margin-bottom: 10px;
+    }
+    #msform fieldset.formstep2 .box-top .box-float .form-group label{
+        margin-bottom: 7px;
+    }
+    #msform fieldset.formstep2 .box-top .box-float{
+        padding: 0;
+        padding-bottom: 11px;
+        border-bottom: 1px solid #ccc;
+        margin: 0 20px;
+    }
+    #msform fieldset.formstep2 .box-top .box-float .form-group:last-child:before{
+        position: absolute;
+        content: '';
+        background: url(../images/icon/icon-calendar-mobi.png);
+        background-repeat: no-repeat;
+        background-size: 18px;
+        width: 18px;
+        height: 18px;
+        right: 20px;
+        bottom: 10px;
+        z-index: 1;
+    }
+    #msform fieldset.formstep2 .box-top .box-float.box-2{
+        padding-top: 17px;
+    }
+    #msform fieldset.formstep2 .box-top{
+        margin-bottom: 29px;
+    }
+    #msform fieldset.formstep2 .box-bottom .box-title{
+        margin-bottom: 15px;
+    }
+    #msform fieldset.formstep2 .box-bottom .box-float h4{
+        margin-bottom: 11px;
+        color: #000000;
+        font-size: 12px;
+        font-family: 'noto-sans-scott-demilight',sans-serif;
+        display: flex;
+        align-items: flex-start;
+        line-height: 18px;
+        img{
+            margin-right: 9px;
+            width: 11px;
+            position: relative;
+            top: 5px;
+        }
+    }
+    #msform fieldset.formstep2 .box-bottom .box-float label{
+        margin-bottom: 9px;
+    }
+    #msform fieldset.formstep2 .box-bottom .box-float .box-1 .form-group:before{
+        left: 17px;
+        font-size: 21px;
+    }
+    #msform fieldset.formstep2 .box-bottom .box-float input{
+        padding-left: 38px;
+    }
+    #msform fieldset.formstep2 .box-bottom .box-float .box-2 .form-group:last-child:before{
+        position: absolute;
+        content: '';
+        background: url(../images/icon/icon-calendar-mobi.png);
+        background-repeat: no-repeat;
+        background-size: 18px;
+        width: 18px;
+        height: 18px;
+        right: 20px;
+        bottom: 19px;
+        z-index: 1;
+    }
+    #msform fieldset.formstep3{
+        padding-top: 15px;
+    }
+    #msform fieldset.formstep3 .box-radio .box-title{
+        margin-bottom: 20px;
+    }
+    #msform fieldset.formstep3 .box-radio .box label{
+        line-height: 40px;
+        padding-left: 34px;
+    }
+    #msform fieldset.formstep3 .box-radio .box .checkmark{
+        top: 15px;
+        left: 12px;
+    }
+    #msform fieldset.formstep4 .box-content .box-title{
+        margin-bottom: 10px;
+    }
+    #msform fieldset.formstep4 .box-content h4{
+        margin-bottom: 12px;
+        img{
+            width: 12px;
+        }
+    }
+    #msform fieldset.formstep4 .box-content textarea{
+        resize: none;
+        font-size: 14px;
+        font-family: 'noto-sans-scott-demilight',sans-serif;
+        margin: 0;
+        min-height: 228px;
+        padding: 10px;
+        padding-left: 17px;
+        line-height: 20px;
+    }
+    #msform fieldset.formstep5 .box-content-1 .box-float .form-group:nth-child(3){
+        width: 100%;
+        margin: 0;
+    }
+    #msform fieldset.formstep5 .box-content-1 .box-float .form-group:nth-child(4) {
+        width: 100%;
+        margin: 0;
+    }
+    #msform fieldset.formstep5 .box-content-1 .box-float .form-group:nth-child(5){
+        width: 100%;
+        margin: 0;
+    }
+    #msform fieldset.formstep5 .box-content-1 .box-float .form-group:nth-child(6){
+        width: 100%;
+        margin: 0;
+    }
+    #msform fieldset.formstep5 .box-content-1 .box-title p{
+        font-size: 11px;
+        line-height: 33px;   
+    }
+    #msform fieldset.formstep5 .box-content-1 .box-title{
+        margin-bottom: 15px;
+    }
+    #msform fieldset.formstep5 .box-content-1 label{
+        margin-bottom: 9px;
+        font-size: 13px;
+    }
+    #msform fieldset.formstep5 .box-content-1 input{
+        margin-bottom: 13px;
+        font-size: 13px !important;
+    }
+    #msform fieldset.formstep5 .box-content-1 .box-float .form-group:nth-child(4){
+        .qc-custom-select {
+            margin-bottom: 9px;
+        }
+    }
+    #msform fieldset.formstep5 .box-content-1 .box-float .form-group:nth-child(5){
+        .qc-custom-select {
+            margin-bottom: 6px;
+        }
+    }
+    #msform fieldset.formstep5 .box-content-1 .box-float .form-group:nth-child(6){
+        .qc-custom-select {
+            margin-bottom: 10px;
+        }
+    }
+    #msform fieldset.formstep5 .box-content-1 .box-float .form-group:nth-child(16),#msform fieldset.formstep5 .box-content-1 .box-float .form-group:nth-child(9),#msform fieldset.formstep5 .box-content-1 .box-float .form-group:nth-child(10),#msform fieldset.formstep5 .box-content-1 .box-float .form-group:nth-child(12){
+        margin-bottom: 0;
+    }
+    #msform fieldset.formstep5 .box-content-1 .box-float .form-group:nth-child(17){
+        width: 100%;
+        margin: 0;
+    }
+    #msform fieldset.formstep5 .box-content-1 .box-float .form-group:nth-child(18){
+        width: 100%;
+        margin: 0;
+        label{
+            display: none;
+        }
+    }
+    #msform fieldset.formstep5 .box-content-2 .box-title span,#msform fieldset.formstep5 .box-content-3 .box-title span,#msform fieldset.formstep5 .box-content-4 .box-title span,#msform fieldset.formstep5 .box-content-5 .box-title span{
+        margin: 0;
+        font-size: 14px;
+        color: #ffff;
+        position: absolute;
+        right: 24px;
+        background: #a69073;
+        top: 3px;
+        width: 26px;
+        height: 26px;
+        line-height: 26px;
+        border: 1px solid #9c832a;
+        cursor: pointer;
+    }
+    #msform fieldset.formstep5 .box-content-2 .box-title h3,#msform fieldset.formstep5 .box-content-3 .box-title h3,#msform fieldset.formstep5 .box-content-4 .box-title h3,#msform fieldset.formstep5 .box-content-5 .box-title h3{
+        font-size: 13px !important;
+    }
+    #msform fieldset.formstep5 .box-checkbox label.margin,#msform fieldset.formstep5 .box-content-5 .box-checkbox label.margin {
+        margin-right: 7px;
+    }
+    #msform fieldset.formstep5 .box-checkbox label,#msform fieldset.formstep5 .box-content-5 .box-checkbox label{
+        line-height: 34px;
+        color: #6d6b6b;
+        font-size: 11px;
+        font-family: 'noto-sans-scott-demilight',sans-serif;
+    }
+    #msform fieldset.formstep5 .box-checkbox .checkmark,#msform fieldset.formstep5 .box-content-5 .box-checkbox .checkmark{
+        position: absolute;
+        top: 11px;
+        left: 6px;
+        height: 13px;
+        width: 13px;
+    }
+    #msform fieldset.formstep5 .box-checkbox label input:checked ~ .checkmark,#msform fieldset.formstep5 .box-content-5 .box-checkbox label input:checked ~ .checkmark{
+        border: 2px solid #113265;
+    }
+    #msform fieldset.formstep5 .box-content-2,#msform fieldset.formstep5 .box-content-3,#msform fieldset.formstep5 .box-content-4,#msform fieldset.formstep5 .box-content-5{
+        margin-bottom: 28px;
+        padding-bottom: 8px;
+    }
+    #msform fieldset.formstep5 .box-content-4 .box-toggle .box-rule,#msform fieldset.formstep5 .box-content-2 .box-toggle .box-rule,#msform fieldset.formstep5 .box-content-3 .box-toggle .box-rule,#msform fieldset.formstep5 .box-content-5 .box-toggle .box-rule{
+        background: #fff;
+        margin: 0 21px;
+        margin-top: 18px;
+        text-align: left;
+        overflow-y: scroll;
+        height: 78px;
+        padding: 14px;
+        padding-top: 10px;
+    }
+    #msform fieldset.formstep5 .box-content-4 .box-toggle .box-rule .box h4,#msform fieldset.formstep5 .box-content-2 .box-toggle .box-rule .box h4,#msform fieldset.formstep5 .box-content-3 .box-toggle .box-rule .box h4,#msform fieldset.formstep5 .box-content-5 .box-toggle .box-rule .box h4{
+        font-size: 11px;
+        color: #4b4b4b;
+        margin-bottom: 0px;
+    }
+    #msform fieldset.formstep5 .box-content-4 .box-toggle .box-rule .box p, #msform fieldset.formstep5 .box-content-2 .box-toggle .box-rule .box p, #msform fieldset.formstep5 .box-content-3 .box-toggle .box-rule .box p, #msform fieldset.formstep5 .box-content-5 .box-toggle .box-rule .box p{
+        margin-bottom: 9px;
+        font-size: 10px;
+        color: #777777;
+    }
+    #msform fieldset.formstep6 {
+        padding-top: 13px;
+    }
+    #msform fieldset.formstep6 .box-content h4{
+        margin: 0 20px;
+        padding: 0;
+        padding-bottom: 25px;
+        font-size: 12px;
+        line-height: 19px;
+        margin-bottom: 25px;
+        img{
+            width: 12px;
+        }
+    }
+    #msform fieldset.formstep6 .box-content label{
+        margin-bottom: 10px;
+    }
+    #msform fieldset.formstep6 .box-content .box-float .form-group:nth-child(5){
+        margin-bottom: 4px;
+        input,.qc-custom-select{
+            width: 100%;
+        }
+    }
+    #msform fieldset.formstep6 .box-content .box-float .form-group .box-checkbox{
+        font-size: 12px;
+        line-height: 17px;
+    }
+    #msform fieldset.formstep6 .box-content .box-float .form-group .checkmark{
+        top: 2px;
+        left: 5px;
+        height: 14px;
+        width: 14px;
+    }
+    #msform fieldset.formstep6 .box-content .add_field_button{
+        color: #004785;
+        font-size: 12px;
+        padding: 0;
+        line-height: 29px;
+        background: transparent;
+        border-radius: 0;
+        border: 1px solid #004785;
+        padding: 0 16px 0 13px;
+        position: relative;
+        span{
+            font-size: 18px;
+        }
+    }
+    #msform fieldset.formstep6 .box-content .box-float .form-group .box-checkbox .checkmark:after{
+        left: 4px;
+        top: 0px;
+        width: 5px;
+        height: 9px;
+        border: solid #004785;
+        border-width: 0 2px 2px 0;
+        -webkit-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+        transform: rotate(45deg);
+    }
+    #msform fieldset.formstep7 .box-content h4 {
+        color: #6d6b6b;
+        font-size: 11px;
+        font-family: 'noto-sans-scott-demilight',sans-serif;
+        display: flex;
+        padding: 0 20px;
+        padding-bottom: 20px;
+        margin-bottom: 1px;
+        text-align: left;
+        align-items: flex-start;
+        letter-spacing: 1px;
+        line-height: 20px;
+        margin-top: 0;
+        img{
+            top: 4px;
+            width: 12px;
+        }
+    }
+    #msform fieldset.formstep7 .box-content .box-title{
+        margin-bottom: 11px;
+    }
+    #msform fieldset.formstep7 .box-content .box-position .file-upload-button:after{
+        right: 90px;
+    }
+    #msform fieldset.formstep7 .box-content .box-position .file-upload-button{
+        padding: 0 20px 0 20px;
+        height: 38px;
+        line-height: 40px;
+        font-size: 14px;
+    }
+    #msform fieldset.formstep7 .box-content .box-position input {
+        height: 40px;
+        line-height: 40px;
+    }
+    #msform fieldset.formstep7 .box-content p{
+        font-size: 11px;
+    }
+    #msform fieldset.formstep8 .box-image .box-text{
+        top: 30px;
+    }
+    #msform fieldset.formstep8 .box-image .box-text h3{
+        font-size: 22px;
+        margin-bottom: 2px;
+    }
+    #msform fieldset.formstep8 .box-image .box-text p{
+        font-size: 12px;
+        line-height: 17px;
+    }
+    #msform fieldset.formstep8 .box-float{
+        margin-top: 28px;
+    }
+    #msform fieldset.formstep8 .box-float .box-title h3{
+        line-height: 31px !important;
+    }
+    #msform fieldset.formstep8 .box-float .box-content{
+        padding-top: 16px;
+        padding-bottom: 18px; 
+    }
+    #msform fieldset.formstep8 .box-float .box-content p {
+        color: #6d6b6b;
+        font-size: 13px;
+        margin: 0;
+        font-family: 'noto-sans-scott-demilight',sans-serif;
+        line-height: 16px;
+    }
+    #msform fieldset.formstep8 .box-float .box-3 .box-content{
+        padding-bottom: 37px;
+    }
+    #msform fieldset.formstep8 h4{
+        font-size: 12px;
+        letter-spacing: 0.8px;
+        line-height: 20px; 
+    }
+    #msform fieldset.formstep8 h4 img{
+        width: 10px;
+    }
+    #msform fieldset.formstep8 h4 span{
+        font-size: 12px;
+        margin-left: 1px;
+    }
+    #msform fieldset.formstep8 .box-float .box.box-4{
+        margin-bottom: 20px !important;
+    }
+    .get-compensation .box-form .box-float {
+        margin-bottom: 11px;
+    }
+    .get-compensation .box-form button img {
+        max-width: 12px;
+        margin-right: 7px;
+    }
+    .get-compensation .box-form button {
+        background: #004785;
+        font-size: 13px;
+        color: #fefefe;
+        padding: 0;
+        /* margin: 0 auto; */
+        line-height: 32px;
+        padding: 0 23px;
+        border: none;
+        border-radius: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0 auto;
+    }
+    .get-compensation {
+        padding-bottom: 10px;
+    }
+    .list-compensation .title-bar h2 img {
+        margin: 0 11px;
+        max-width: 9px;
+    }
+    .list-compensation ul li .box-title h3{
+        font-size: 12px !important;
+        line-height: 28px !important;
+    }
+    .list-compensation ul li .box-title a{
+        margin: 0;
+        margin-right: 26px;
+        line-height: 18px;
+        padding: 0 3px;
+        margin-top: 5px;
+    }
+    .list-compensation ul li .box-float .box{
+        min-height: 60px;
+    }
+    .list-compensation ul li .box-float .box:first-child h4{
+        font-size: 10px;
+        line-height: 9px;
+    }
+    .list-compensation ul li .box-float .box:first-child img {
+        margin-top: 12px;
+        max-width: 23px;
+    }
+    .list-compensation ul li .box-float .box:first-child {
+        width: 22%;
+    }
+    .list-compensation ul li .box-float .box:nth-child(2) {
+        width: 56%;
+    }
+    .list-compensation ul li .box-float .box:nth-child(4) {
+        width: 22%;
+    }
+    .list-compensation ul li .box-float .box:nth-child(2) .time{
+        font-size: 17px;
+        color: #000;
+        font-family: 'noto-sans-scott-demilight',sans-serif;
+        line-height: 19px;
+    }
+    .list-compensation ul li .box-float .box:nth-child(2) .time span {
+        display: block;
+        font-size: 10px;
+        line-height: 20px;
+    }
+    .list-compensation ul li .box-float .box:nth-child(4) .button{
+        line-height: 19px;
+        padding: 0 17px;
+        font-size: 9px;
+        background: #c8ae51;
+        color: #fff;
+        font-family: 'noto-sans-scott-medium',sans-serif;
+        margin-top: 14px;
+        margin-bottom: 5px;
+    }
+    .list-compensation ul li .box-float .box:nth-child(4) p{
+        font-size: 9px;
+    }
+    .list-compensation ul li{
+        margin-bottom: 22px;
+    }
+    .list-compensation .box-pagination{
+        margin-top: 28px;
+    }
+    .list-compensation .box-pagination ul li{
+        display: inline-block;
+        background: none;
+        max-width: 100%;
+        margin: 0;
+        border: 1px solid #ddd;
+        float: left;
+        border-right: none;
+        width: 26px;
+        height: 26px;
+        line-height: 26px;
+        font-size: 11px;
+    }
+    .list-compensation ul li .box-add ul li:before{
+        top: 8px;
+        background-size: 12px;
+    }
+    .list-compensation ul li .box-add ul li {
+        padding-left: 17px;
+    }
+    .list-compensation ul li .box-add a{
+        border-radius: 8px;
+        line-height: 26px;
+        padding: 0 20px;
+        font-size: 10px;
+    }
+    .compensation-regulations .title-bar {
+        padding: 58px 0;
+        padding-bottom: 30px;
+    }
+    .compensation-regulations .title-bar span {
+        font-family: 'noto-sans-scott-light',sans-serif;
+        font-size: 14px;
+        color: #fff;
+    }
+    .compensation-regulations .title-bar h2 {
+        font-size: 37px;
+        margin: 17px 0 33px 0;
+    }
+    .compensation-regulations .title-bar p{
+        display: none;
+    }
+    .compensation-regulations .content-compensation-regulations {
+        padding: 29px 0;
+    }
+    .compensation-regulations .content-compensation-regulations .nav-tabs > li > a {
+        line-height: 15px;
+        padding: 8px 0;
+        font-size: 11px;
+    }
+    .compensation-regulations .content-compensation-regulations .nav-tabs li.active a {
+        line-height: 15px;
+        padding: 8px 0;
+        font-size: 11px;
+    }
+    .compensation-regulations .content-compensation-regulations .tab-content{
+        margin-top: 20px;
+    }
+    .compensation-regulations .content-compensation-regulations .tab-content h3.title {
+        font-size: 14px;
+        color: #000;
+        font-family: 'noto-sans-scott-bold',sans-serif;
+        margin-bottom: 23px;
+    }
+    .compensation-regulations .content-compensation-regulations .tab-content ul li .box-left {
+        width: 23%;
+    }
+    .compensation-regulations .content-compensation-regulations .tab-content ul li .box-left h4 {
+        margin-bottom: 0;
+        font-size: 13px;
+        color: #fff;
+        font-family: 'noto-sans-scott',sans-serif;
+    }
+    .compensation-regulations .content-compensation-regulations .tab-content ul li .box-right ul li:before {
+        top: 7px;
+    }
+    .compensation-regulations .content-compensation-regulations .tab-content ul li .box-right ul li{
+        margin: 0;
+        font-size: 10px;
+        color: #5b5b5b;
+        font-family: 'noto-sans-scott-demilight',sans-serif;
+        line-height: 15px;
+        display: block;
+        border: none;
+        position: relative;
+        padding-left: 14px;
+    }
+    .compensation-regulations .content-compensation-regulations .tab-content ul li .box-right{
+        padding: 12px 13px;
+    }
+    .compensation-regulations .content-compensation-regulations .tab-content ul li .box-left {
+        padding: 0 5px;
+    }
+    .compensation-regulations .content-compensation-regulations .tab-content ul li .box-right p span{
+        font-size: 12px;
+    }
+    .compensation-regulations .content-compensation-regulations .tab-content .box-text ul li:before {
+        position: absolute;
+        left: 0px;
+        width: 2px;
+        height: 2px;
+        background: #5b5b5b;
+        content: "";
+        top: 9px;
+        border-radius: 50%;
+    }
+    .compensation-regulations .content-compensation-regulations .tab-content .box-text ul li {
+        margin: 0;
+        font-size: 10px;
+        color: #5b5b5b;
+        font-family: 'noto-sans-scott-demilight',sans-serif;
+        line-height: 20px;
+        display: block;
+        border: none;
+        position: relative;
+        padding-left: 8px;
+    }
+    .compensation-regulations .content-compensation-regulations .tab-content .box-text {
+        margin-top: 23px;
+    }
+    .compensation-regulations .content-compensation-regulations .tab-content ul li .box-right.box-2 .box{
+        padding: 12px 13px;
+    }
+    .compensation-regulations .content-compensation-regulations .tab-content ul li .box-right.box-2 .box:last-child{
+        padding: 12px 13px;
+    }
+    .contact-page h2 {
+        font-size: 35px;
+        color: #fff;
+        font-family: 'Prata', serif;
+        margin-bottom: 25px;
+    }
+    .contact-page {
+        padding: 51px 0;
+        text-align: center;
+        padding-bottom: 160px;
+        background-size: cover;
+    }
+    .contact-page p {
+        font-size: 13px;
+        color: #fff;
+        font-family: 'noto-sans-scott-demilight',sans-serif;
+        line-height: 18px;
+        margin-bottom: 22px;
+    }
+    .contact-page ul{
+        max-width: 228px;
+    }
+    .contact-page ul li:first-child {
+        margin-bottom: -4px;
+    }
+    .contact-page ul li {
+        font-size: 13px;
+    }
+    .contact-page ul li span{
+        font-size: 11px;
+    }
+    .compensation-page .title-bar{
+        padding: 61px 0;
+        padding-bottom: 31px;
+    }
+    .compensation-page .title-bar span {
+        font-family: 'noto-sans-scott-light',sans-serif;
+        font-size: 14px;
+        color: #fff;
+    }
+    .compensation-page .title-bar h2 {
+        font-size: 37px;
+        color: #fff;
+        font-family: 'Prata', serif;
+        margin: 14px 0 33px 0;
+    }
+    .compensation-page .content-compensation {
+        padding: 34px 0;
+    }
+    .compensation-page .content-compensation h2 {
+        font-family: 'noto-sans-scott-light',sans-serif;
+        font-size: 17px;
+        color: #000;
+        text-align: center;
+        line-height: 24px;
+        margin-bottom: 44px;
+    }
+    .compensation-page .content-compensation ul{
+        padding-right: 54%;
+    }
+    .compensation-page .content-compensation ul li{
+        min-height: 116px;
+        text-align: center;
+        padding-top: 7px;
+        position: relative;
+    }
+    .compensation-page .content-compensation ul li h3{
+        color: #fdfdfd;
+        font-size: 13px;
+        font-family: 'noto-sans-scott-bold',sans-serif;
+        letter-spacing: 0.2px;
+        margin-bottom: 7px;
+    }
+    .compensation-page .content-compensation ul li:nth-child(5) p {
+        margin-top: 6px;
+    }
+    .compensation-page .content-compensation ul li:nth-child(2) img{
+        max-width: 26px;
+    }
+    .compensation-page .content-compensation ul li p {
+        color: #fff;
+        font-size: 12px;
+        margin-bottom: 0;
+        margin-top: -2px;
+        padding: 0 10px;
+    }
+    .compensation-page .content-compensation .box-compensation h3 {
+        font-size: 14px;
+        margin-top: 0px;
+        margin-bottom: 0;
+        letter-spacing: 0.2px;
+        padding: 0 27px;
+        line-height: 20px;
+    }
+    .compensation-page .content-compensation .box-compensation .box{
+        padding: 133px 0;
+    }
+    .compensation-page .content-compensation .box-compensation .box:before {
+        position: absolute;
+        content: "";
+        left: 5px;
+        right: 5px;
+        bottom: 5px;
+        top: 5px;
+        border: 1px solid #fff;
+    }
+    .compensation-page .content-compensation .box-compensation{
+        width: 30%;
+    }
+    .compensation-page .content-compensation ul li .box-icon{
+        bottom: 37%;
+        right: -45%;
+        &:before{
+            font-size: 32px;
+        }
+        &:after{
+            position: absolute;
+            content: '배상';
+            font-size: 14px;
+            width: 44px;
+            background: #054f94;
+            border-radius: 2px;
+            line-height: 23px;
+            top: 5px;
+            left: -49px;
+        }
+    }
+    .compensation-page .content-compensation ul li:nth-child(4) .box-icon{
+        &:after{
+            background:#043d72;
+        }
+    }
+    .compensation-page .content-compensation ul li:nth-child(5) .box-icon{
+        &:after{
+            background:#022444;
+        }
+    }
+    .compensation-page .content-compensation{
+        padding-bottom: 48px;
+    }
+    .contact-faq .title-bar h2{
+        display: none;
+    }
+    .contact-faq .title-bar h2.mobi{
+        display: block;
+    }
+    .contact-faq .title-bar{
+        padding-bottom: 55px;
+    }
+    .contact-faq .title-bar h2{
+        font-size: 32px;
+    }
+    .contact-faq .title-bar span {
+        font-size: 14px;
+    }
+    .contact-faq .content-faq {
+        padding: 29px 0;
+        padding-bottom: 47px;
+    }
+    .contact-faq .content-faq form input {
+        height: 38px;
+        padding-right: 45px;
+        font-size: 14px;
+    }
+    .contact-faq .content-faq form .icon {
+        background: #004785;
+        line-height: 40px;
+        height: 38px;
+        width: 39px;
+        img{
+            max-width: 23px;
+        }
+    }
+    .contact-faq .content-faq .nav-tabs{
+        margin-top: 30px;
+    }
+    .contact-faq .content-faq .nav-tabs > li > a {
+        font-size: 11px;
+        line-height: 31px;
+    }
+    .contact-faq .content-faq .nav-tabs li.active a {
+        line-height: 31px;
+    }
+    .contact-faq .content-faq .tab-content{
+        margin-top: 27px;
+    }
+    .contact-faq .content-faq .tab-content .box-faq .title h3 {
+        font-size: 13px;
+        padding-right: 56px;
+        line-height: 15px;
+    }
+    .contact-faq .content-faq .tab-content .box-faq .title {
+        padding: 10px 0;
+    }
+    .contact-faq .content-faq .tab-content .box-faq .title span {
+        width: 27px;
+        font-size: 12px;
+    }
+    .contact-faq .content-faq .tab-content .box-faq .toggle ul li {
+        line-height: 18px;
+        margin: 0;
+        font-size: 11px;
+        margin-bottom: -2px;
+        padding-right: 9px;
+        padding-left: 37px;
+    }
+    .contact-faq .content-faq .tab-content .box-faq .toggle {
+        margin-top: 16px;
+        margin-bottom: 0;
+        padding-bottom: 9px;
+    }
+    .contact-faq .content-faq .tab-content .box-faq .toggle ul li:before {
+        position: absolute;
+        left: 24px;
+        width: 5px;
+        height: 5px;
+        background: #5b5b5b;
+        content: "";
+        top: 7px;
+        border-radius: 50%;
+    }
+    .contact-faq .content-faq .tab-content .box-faq {
+        margin-bottom: 19px;
+    }
+    .compensation-page .content-compensation ul li .box-icon:after{
+        display: block;
+    }
+}
+@media(max-width:333px){
+    #msform fieldset.formstep5 .box-content-1 .box-float .form-group:nth-child(13) input{
+        width: 45.5%;
+    }
+}
+@media(max-width:320px){
+    .rev_slider_wrapper .tp-caption.banner-caption-title{
+        font-size: 23px !important;
+        line-height: 16px !important;
+        padding-left: 13px !important;
+    }
+    .rev_slider_wrapper .tp-caption.banner-caption-title span{
+        font-size: 21px !important;
+    }
+    .rev_slider_wrapper .tp-caption.banner-caption-p span{
+        font-size: 13px !important;
+        padding-left: 13px !important;
+        line-height: 17px !important;
+    }
+    .rev_slider_wrapper .tp-caption .al-button .button{
+        font-size: 16px !important;
+        margin-left: 13px !important;
+        line-height: 48px !important;
+        padding: 0 36px !important;
+        margin-top: 30px !important;
+    }
+}
